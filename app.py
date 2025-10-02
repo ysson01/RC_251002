@@ -5,7 +5,7 @@ from io import BytesIO
 
 
 # 모델 로드
-save_file = 'all_models_data_added_0809_v5.pkl'
+save_file = 'rc_trained_0219_divided.pkl'
 save_data = joblib.load(save_file)
 
 # 로드된 데이터 변수
